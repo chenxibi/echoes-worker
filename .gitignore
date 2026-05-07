@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+echoes-server/CREDENTIALS.md
+.DS_Store
